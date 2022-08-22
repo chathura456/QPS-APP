@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465928965761",
+    "project_id": "qps-app-flutter",
+    "storage_bucket": "qps-app-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465928965761:android:9385034af6f4e4e9884780",
+        "android_client_info": {
+          "package_name": "com.example.finalqps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465928965761-ud538ksv3pmofldpnsvnl1ri9gr97srs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Jn2RSSxtXKPWGCtLoiop20NL-b8j6nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465928965761-ud538ksv3pmofldpnsvnl1ri9gr97srs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
